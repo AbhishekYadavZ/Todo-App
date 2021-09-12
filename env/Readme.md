@@ -1,6 +1,6 @@
 
 Packages install manually
 
-flask sqlalchemy
-jinja2
-sqlite
+- flask sqlalchemy
+- jinja2
+- sqlite
